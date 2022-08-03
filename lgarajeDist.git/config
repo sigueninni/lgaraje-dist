@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	symlinks = false
+	ignorecase = true
+[remote "lgaraje-dist"]
+	url = https://github.com/sigueninni/lgaraje-dist.git
+	fetch = +refs/heads/*:refs/remotes/lgaraje-dist/*
